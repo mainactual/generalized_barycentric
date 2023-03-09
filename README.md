@@ -1,0 +1,2 @@
+# generalized_barycentric
+Generalized barycentric coordinates
